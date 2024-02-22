@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arunoday Arun
 - 👀 I’m interested for Internship
-- 🌱 I’m currently learning C & C++ Language
+- 🌱 I’have completed C & C++ Language
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on arunodayarun123@gmail.com
 - 😄 Pronouns: ...
